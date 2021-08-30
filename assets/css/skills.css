@@ -1,0 +1,6 @@
+#skills{
+    padding: 0 10rem 0 10rem;
+    background: rgb(145,145,145);
+    background: radial-gradient(circle, rgba(145,145,145,1) 0%, rgba(87,77,77,0.4433123591233369) 56%, rgba(65,56,56,0.4741246840533089) 100%);
+    color: white;
+}

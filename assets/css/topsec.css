@@ -1,0 +1,19 @@
+.top-sec-content{
+    padding: 12rem 10rem 14.8rem 10rem;
+    background-image: url("./assets/images/neon.png");
+    background-size: auto;
+}
+
+.bk-img-top{
+    position: absolute;
+    z-index: -10;
+    overflow-x:hidden;
+    object-fit: fill;
+    max-width: -webkit-fill-available;
+}
+.soc-links{
+    margin-top: 2rem;
+}
+.soc-item{
+    padding-right: 1rem;
+}
