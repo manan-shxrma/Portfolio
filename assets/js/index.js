@@ -1,4 +1,9 @@
 
+window.addEventListener("load",function(){
+   const loader =document.querySelector(".loader");
+   loader.className += " hidden";
+  });
+
 
   /*Typing effect */
   var TxtRotate = function(el, toRotate, period) {
