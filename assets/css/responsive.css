@@ -1,0 +1,15 @@
+@media all and (max-width: 980px) { 
+    .nav-main {
+        display:none;
+    }   
+}
+@media all and (max-width: 980px) { 
+    .bk-img-top {
+        display:none;
+    }   
+}
+@media all and (max-width: 980px) { 
+    .mob-top-sec {
+        display: inline-block;
+    }   
+}
