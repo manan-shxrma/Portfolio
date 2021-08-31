@@ -29,4 +29,22 @@
     }   
 }
 
+@media all and (min-width: 980px) { 
+    .mob-bk-im-top {
+        display: none;
+    }   
+}
 
+
+
+@media all and (max-width: 980px) { 
+    .im-inline-top-mob{
+        display: inline;
+        font-size: 1.5rem;
+    }   
+}
+@media all and (max-width: 980px) { 
+    .soc-links{
+        padding-top: 10%;
+    }   
+}

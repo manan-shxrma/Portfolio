@@ -17,3 +17,7 @@
 .soc-item{
     padding-right: 1rem;
 }
+.mob-bk-im-top{
+    position: absolute;
+    z-index: -1;
+}
