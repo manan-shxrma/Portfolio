@@ -8,7 +8,7 @@ app.get('/', (req, res) => {
   res.sendFile(__dirname +'/index.html')
 })
 app.get('/contact', (req, res) => {
-    res.send("prateush lodu hai...........uski crush priya pahwa hai ")
+    res.send("hwyy!! this page is under development!! ")
   })
 
 app.listen(process.env.PORT || 3000, () => {
