@@ -1,7 +1,7 @@
 
 const express = require('express')
 const app = express();
-const port = 3003;
+
 
 
 
@@ -15,6 +15,6 @@ app.get('/contact', (req, res) => {
     res.send("manan")
   })
 
-app.listen(port, () => {
-  console.log(`Example app listening at http://localhost:${port}`)
+app.listen(process.env.PORT || 3000, () => {
+  console.log(`Example app listening at desired port`)
 })
